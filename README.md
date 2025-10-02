@@ -24,7 +24,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/halsten-dev/astro-nvim-config ~/.config/nvim
+git clone git@github.com/halsten-dev/astro-nvim-config.git ~/.config/nvim
 ```
 
 #### Start Neovim
