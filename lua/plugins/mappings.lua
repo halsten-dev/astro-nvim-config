@@ -9,6 +9,8 @@ return {
         n = {
           ["<C-d>"] = { "<C-d>zz", desc = "Scroll down and center" },
           ["<C-u>"] = { "<C-u>zz", desc = "Scroll up and center" },
+          ["n"] = { "nzz", desc = "Next result and center" },
+          ["N"] = { "Nzz", desc = "Previous result and center"},
         },
       },
     },
